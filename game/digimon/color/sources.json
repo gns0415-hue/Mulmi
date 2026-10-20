@@ -70,5 +70,201 @@
   "patamon": {
     "file": "patamon.gif",
     "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/rookie/Patamon.gif"
+  },
+  "enemy-shellmon": {
+    "file": "enemy-shellmon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/Shellmon.gif"
+  },
+  "enemy-kuwagamon": {
+    "file": "enemy-kuwagamon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/Kuwagamon.gif"
+  },
+  "enemy-drimogemon": {
+    "file": "enemy-drimogemon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/Drimogemon.gif"
+  },
+  "enemy-andromon": {
+    "file": "enemy-andromon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/Andromon.gif"
+  },
+  "enemy-leomon": {
+    "file": "enemy-leomon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/Leomon.gif"
+  },
+  "enemy-ogremon": {
+    "file": "enemy-ogremon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/Ogremon.gif"
+  },
+  "enemy-divermon": {
+    "file": "enemy-divermon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/Divermon.gif"
+  },
+  "enemy-scorpiomon": {
+    "file": "enemy-scorpiomon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/Scorpiomon.gif"
+  },
+  "enemy-kiwimon": {
+    "file": "enemy-kiwimon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/Kiwimon.gif"
+  },
+  "enemy-garbamon": {
+    "file": "enemy-garbamon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/Garbagemon.gif"
+  },
+  "enemy-cherrymon": {
+    "file": "enemy-cherrymon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/Cherrymon.gif"
+  },
+  "enemy-mechanorimon": {
+    "file": "enemy-mechanorimon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/Mechanorimon.gif"
+  },
+  "enemy-tankmon": {
+    "file": "enemy-tankmon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/Tankmon.gif"
+  },
+  "enemy-megadramon": {
+    "file": "enemy-megadramon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/Megadramon.gif"
+  },
+  "enemy-gigadramon": {
+    "file": "enemy-gigadramon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/Gigadramon.gif"
+  },
+  "enemy-vilemon": {
+    "file": "enemy-vilemon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/Evilmon.gif"
+  },
+  "enemy-ladydevimon": {
+    "file": "enemy-ladydevimon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/LadyDevimon.gif"
+  },
+  "enemy-devimon": {
+    "file": "enemy-devimon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/Devimon.gif"
+  },
+  "enemy-metalseadramon": {
+    "file": "enemy-metalseadramon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/mega/MetalSeadramon.gif"
+  },
+  "enemy-puppetmon": {
+    "file": "enemy-puppetmon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/mega/Puppetmon.gif"
+  },
+  "enemy-machinedramon": {
+    "file": "enemy-machinedramon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/mega/Machinedramon.gif"
+  },
+  "enemy-piedmon": {
+    "file": "enemy-piedmon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/mega/Piedmon.gif"
+  },
+  "enemy-apocalymon": {
+    "file": "enemy-apocalymon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/mega/Apocalymon.gif"
+  },
+  "enemy-tyrannomon": {
+    "file": "enemy-tyrannomon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/tyranomon.gif"
+  },
+  "enemy-darktyrannomon": {
+    "file": "enemy-darktyrannomon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/DarkTyrannomon.gif"
+  },
+  "enemy-flymon": {
+    "file": "enemy-flymon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/Flymon.gif"
+  },
+  "enemy-skullgreymon": {
+    "file": "enemy-skullgreymon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/SkullGreymon.gif"
+  },
+  "enemy-gekomon": {
+    "file": "enemy-gekomon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/Gekomon.gif"
+  },
+  "enemy-digitamamon": {
+    "file": "enemy-digitamamon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/Digitamamon.gif"
+  },
+  "enemy-vademon": {
+    "file": "enemy-vademon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/Vademon.gif"
+  },
+  "enemy-demidevimon": {
+    "file": "enemy-demidevimon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/rookie/PicoDevimon.gif"
+  },
+  "enemy-dokugumon": {
+    "file": "enemy-dokugumon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/Dokugumon.gif"
+  },
+  "enemy-devidramon": {
+    "file": "enemy-devidramon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/Devidramon.gif"
+  },
+  "enemy-raremon": {
+    "file": "enemy-raremon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/Raremon.gif"
+  },
+  "enemy-bakemon": {
+    "file": "enemy-bakemon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/Bakemon.gif"
+  },
+  "enemy-gizamon": {
+    "file": "enemy-gizamon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/rookie/Gizamon.gif"
+  },
+  "enemy-gesomon": {
+    "file": "enemy-gesomon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/Gesomon.gif"
+  },
+  "enemy-phantomon": {
+    "file": "enemy-phantomon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/Phantomon.gif"
+  },
+  "enemy-snimon": {
+    "file": "enemy-snimon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/Snimon.gif"
+  },
+  "enemy-kokatorimon": {
+    "file": "enemy-kokatorimon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/Kokatorimon.gif"
+  },
+  "enemy-datamon": {
+    "file": "enemy-datamon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/Nanomon.gif"
+  },
+  "enemy-etemon": {
+    "file": "enemy-etemon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/Etemon.gif"
+  },
+  "enemy-shogungekomon": {
+    "file": "enemy-shogungekomon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/ShogunGekomon.gif"
+  },
+  "enemy-mammothmon": {
+    "file": "enemy-mammothmon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/Mammothmon.gif"
+  },
+  "enemy-skullmeramon": {
+    "file": "enemy-skullmeramon.gif",
+    "source": "https://raw.githubusercontent.com/kongtaehun/digimon-assets-VB/main/assets/data/vol/vbe/sprites/deathmera/frame1.gif"
+  },
+  "enemy-myotismon": {
+    "file": "enemy-myotismon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/Vamdemon.gif"
+  },
+  "enemy-venommyotismon": {
+    "file": "enemy-venommyotismon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/mega/VenomMyotismon.gif"
+  },
+  "enemy-metaletemon": {
+    "file": "enemy-metaletemon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/mega/MetalEtemon.gif"
+  },
+  "enemy-skullmeramon-alt": {
+    "file": "enemy-skullmeramon-alt.gif",
+    "source": "https://raw.githubusercontent.com/kongtaehun/digimon-assets-VB/main/assets/data/vol/vbe/sprites/deathmera/frame2.gif"
   }
 }
