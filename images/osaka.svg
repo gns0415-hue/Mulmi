@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#ece8dc"/>
+  <circle cx="930" cy="170" r="73" fill="#bc714e"/>
+  <path d="M0 580C210 490 352 581 577 534s398-50 623 26v200H0Z" fill="#a8b8a4"/>
+  <path d="M0 647c250-95 373 15 605-42s363-22 595 27v128H0Z" fill="#738e80"/>
+  <g fill="#d5d5c4" stroke="#99a58d" stroke-width="3">
+    <path d="M50 380h100v196H50zM160 315h112v256H160zM290 405h62v157H290zM810 370h92v179h-92zM912 330h128v238H912zM1054 398h98v180h-98z"/>
+  </g>
+  <g fill="#e6ddc6" stroke="#77866c" stroke-width="3">
+    <path d="M465 457h254v110H465zM484 382h216v75H484zM514 314h158v68H514zM548 254h90v60h-90z"/>
+  </g>
+  <g fill="#526d5b">
+    <path d="M420 463c48-4 56-19 62-33l114 14 107-14c6 14 15 28 59 33l-34 15H456ZM453 389c34-4 45-20 52-33l90 12 82-12c7 13 19 29 51 33l-26 13H481ZM486 320c31-5 44-19 50-33l57 12 59-12c6 14 19 28 51 33l-26 12H512ZM520 262c35-6 49-25 73-49 24 24 38 43 72 49l-25 13h-96Z"/>
+  </g>
+  <path d="M592 210v-27" stroke="#a78856" stroke-width="6"/>
+  <path d="M576 186q17-24 33 0" stroke="#a78856" stroke-width="5" fill="none"/>
+  <g fill="#76856d"><path d="M536 420h16v24h-16zM574 420h16v24h-16zM613 420h16v24h-16zM650 420h16v24h-16zM553 348h15v20h-15zM616 348h15v20h-15zM580 284h23v22h-23z"/></g>
+  <path d="M348 568v-39m502 39v-39M348 546q250-90 502 0" stroke="#696f5a" stroke-width="10" fill="none"/>
+  <path d="M350 575q249-70 498 0" stroke="#d4bb91" stroke-width="14" fill="none"/>
+  <path d="M87 686q111-25 220-4m168 31q110-27 220-13m172-17q108-12 203 10" stroke="#d8e0cf" stroke-width="2" fill="none"/>
+  <text x="58" y="100" fill="#586e59" font-family="Georgia,serif" font-size="56" letter-spacing="10">OSAKA</text>
+  <text x="62" y="133" fill="#8a977f" font-family="sans-serif" font-size="11" letter-spacing="5">A CITY TO WANDER, A TABLE TO REMEMBER</text>
+  <text x="1135" y="724" fill="#e7ebdc" text-anchor="end" font-family="sans-serif" font-size="11" letter-spacing="3">MULMI · CITY NOTES · ILLUSTRATION</text>
+</svg>
