@@ -347,5 +347,141 @@
     "file": "agumon-adventure.png",
     "source": "https://raw.githubusercontent.com/kaisadilla/digimon-sprite-collection/main/public/img/sprites/digimon/story/agumon.png",
     "note": "Classic Adventure design without the 2006 wrist bands; original PNG unchanged."
+  },
+  "veemon": {
+    "file": "veemon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/rookie/V-mon.gif"
+  },
+  "wormmon": {
+    "file": "wormmon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/rookie/Wormmon.gif"
+  },
+  "hawkmon": {
+    "file": "hawkmon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/rookie/Hawkmon.gif"
+  },
+  "exveemon": {
+    "file": "exveemon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/XV-mon.gif"
+  },
+  "stingmon": {
+    "file": "stingmon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/Stingmon.gif"
+  },
+  "aquilamon": {
+    "file": "aquilamon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/Aquilamon.gif"
+  },
+  "ankylomon": {
+    "file": "ankylomon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/Ankylomon.gif"
+  },
+  "flamedramon": {
+    "file": "flamedramon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/Flamedramon.gif"
+  },
+  "shurimon": {
+    "file": "shurimon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/Shurimon.gif"
+  },
+  "magnamon": {
+    "file": "magnamon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/Magnamon.gif"
+  },
+  "paildramon": {
+    "file": "paildramon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/Paildramon.gif"
+  },
+  "dinobeemon": {
+    "file": "dinobeemon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/DinoBeemon.gif"
+  },
+  "silphymon": {
+    "file": "silphymon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/Silphymon.gif"
+  },
+  "shakkoumon": {
+    "file": "shakkoumon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/Shakkoumon.gif"
+  },
+  "imperialdramon": {
+    "file": "imperialdramon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/mega/Imperialdramon.gif"
+  },
+  "imperialdramonFM": {
+    "file": "imperialdramonFM.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/mega/ImperialdramonFighter.gif"
+  },
+  "imperialdramonPM": {
+    "file": "imperialdramonPM.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/mega/ImperialdramonPaladin.gif"
+  },
+  "valkyrimon": {
+    "file": "valkyrimon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/mega/Valkyrimon.gif"
+  },
+  "slashangemon": {
+    "file": "slashangemon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/mega/SlashAngemon.gif"
+  },
+  "grankuwagamon": {
+    "file": "grankuwagamon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/mega/GranKuwagamon.gif"
+  },
+  "armadillomon": {
+    "file": "armadillomon.gif",
+    "source": "https://raw.githubusercontent.com/kongtaehun/digimon-assets-VB/main/assets/data/anime/dwy/sprites/armadi/frame1.gif"
+  },
+  "armadillomon-pose2": {
+    "file": "armadillomon-pose2.gif",
+    "source": "https://raw.githubusercontent.com/kongtaehun/digimon-assets-VB/main/assets/data/anime/dwy/sprites/armadi/frame2.gif"
+  },
+  "raidramon": {
+    "file": "raidramon.gif",
+    "source": "https://raw.githubusercontent.com/kongtaehun/digimon-assets-VB/main/assets/data/anime/dwy/sprites/lighdra/frame1.gif"
+  },
+  "raidramon-pose2": {
+    "file": "raidramon-pose2.gif",
+    "source": "https://raw.githubusercontent.com/kongtaehun/digimon-assets-VB/main/assets/data/anime/dwy/sprites/lighdra/frame2.gif"
+  },
+  "halsemon": {
+    "file": "halsemon.gif",
+    "source": "https://raw.githubusercontent.com/kongtaehun/digimon-assets-VB/main/assets/data/anime/dwr/sprites/hols/frame1.gif"
+  },
+  "halsemon-pose2": {
+    "file": "halsemon-pose2.gif",
+    "source": "https://raw.githubusercontent.com/kongtaehun/digimon-assets-VB/main/assets/data/anime/dwr/sprites/hols/frame2.gif"
+  },
+  "digmon": {
+    "file": "digmon.gif",
+    "source": "https://raw.githubusercontent.com/kongtaehun/digimon-assets-VB/main/assets/data/anime/dwy/sprites/dig/frame1.gif"
+  },
+  "digmon-pose2": {
+    "file": "digmon-pose2.gif",
+    "source": "https://raw.githubusercontent.com/kongtaehun/digimon-assets-VB/main/assets/data/anime/dwy/sprites/dig/frame2.gif"
+  },
+  "submarimon": {
+    "file": "submarimon.gif",
+    "source": "https://raw.githubusercontent.com/kongtaehun/digimon-assets-VB/main/assets/data/anime/dwy/sprites/submari/frame1.gif"
+  },
+  "submarimon-pose2": {
+    "file": "submarimon-pose2.gif",
+    "source": "https://raw.githubusercontent.com/kongtaehun/digimon-assets-VB/main/assets/data/anime/dwy/sprites/submari/frame2.gif"
+  },
+  "pegasusmon": {
+    "file": "pegasusmon.gif",
+    "source": "https://raw.githubusercontent.com/kongtaehun/digimon-assets-VB/main/assets/data/anime/dwy/sprites/pegas/frame1.gif"
+  },
+  "pegasusmon-pose2": {
+    "file": "pegasusmon-pose2.gif",
+    "source": "https://raw.githubusercontent.com/kongtaehun/digimon-assets-VB/main/assets/data/anime/dwy/sprites/pegas/frame2.gif"
+  },
+  "nefertimon": {
+    "file": "nefertimon.gif",
+    "source": "https://raw.githubusercontent.com/kongtaehun/digimon-assets-VB/main/assets/data/anime/dwr/sprites/neferti/frame1.gif"
+  },
+  "nefertimon-pose2": {
+    "file": "nefertimon-pose2.gif",
+    "source": "https://raw.githubusercontent.com/kongtaehun/digimon-assets-VB/main/assets/data/anime/dwr/sprites/neferti/frame2.gif"
   }
 }
