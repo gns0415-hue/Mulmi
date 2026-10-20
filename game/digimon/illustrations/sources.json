@@ -1,0 +1,28 @@
+{
+  "jogress.png": {
+    "references": [
+      "https://digimon.net/cimages/digimon/omegamon.jpg",
+      "https://digimon.net/cimages/digimon/omegamon-alter-s.jpg"
+    ],
+    "pages": [
+      "https://digimon.net/reference_en/detail.php?directory_name=omegamon",
+      "https://digimon.net/reference_en/detail.php?directory_name=omegamon-alter-s"
+    ],
+    "processing": "image_gen background removal and two-character layout; not an unmodified official sprite.",
+    "layout": {
+      "omegamon": [
+        0,
+        0,
+        920,
+        887
+      ],
+      "alters": [
+        920,
+        0,
+        854,
+        887
+      ]
+    },
+    "rights": "Digimon © Akiyoshi Hongo / Toei Animation / Bandai. Artwork rights are separate from the game code."
+  }
+}

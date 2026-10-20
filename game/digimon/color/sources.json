@@ -342,5 +342,10 @@
   "cresgarurumon-pose2": {
     "file": "cresgarurumon-pose2.gif",
     "source": "https://raw.githubusercontent.com/kongtaehun/digimon-assets-VB/main/assets/data/ex/gabu_ex/sprites/cresgaruru/frame2.gif"
+  },
+  "agumon-adventure": {
+    "file": "agumon-adventure.png",
+    "source": "https://raw.githubusercontent.com/kaisadilla/digimon-sprite-collection/main/public/img/sprites/digimon/story/agumon.png",
+    "note": "Classic Adventure design without the 2006 wrist bands; original PNG unchanged."
   }
 }
