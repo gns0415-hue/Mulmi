@@ -1,0 +1,74 @@
+{
+  "garudamon": {
+    "file": "garudamon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/Garudamon.gif"
+  },
+  "phoenixmon": {
+    "file": "phoenixmon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/mega/Phoenixmon.gif"
+  },
+  "tentomon": {
+    "file": "tentomon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/rookie/Tentomon.gif"
+  },
+  "atlurkabuterimon": {
+    "file": "atlurkabuterimon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/AlturKabuterimonRed.gif"
+  },
+  "herculeskabuterimon": {
+    "file": "herculeskabuterimon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/mega/HerculesKabuterimon.gif"
+  },
+  "togemon": {
+    "file": "togemon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/Togemon.gif"
+  },
+  "lilymon": {
+    "file": "lilymon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/Lilymon.gif"
+  },
+  "rosemon": {
+    "file": "rosemon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/mega/Rosemon.gif"
+  },
+  "gomamon": {
+    "file": "gomamon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/rookie/Gomamon.gif"
+  },
+  "ikkakumon": {
+    "file": "ikkakumon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/Ikkakumon.gif"
+  },
+  "zudomon": {
+    "file": "zudomon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/Zudomon.gif"
+  },
+  "vikemon": {
+    "file": "vikemon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/mega/Vikemon.gif"
+  },
+  "magnaangemon": {
+    "file": "magnaangemon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/HolyAngemon.gif"
+  },
+  "seraphimon": {
+    "file": "seraphimon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/mega/Seraphimon.gif"
+  },
+  "tailmon": {
+    "file": "tailmon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/Tailmon.gif"
+  },
+  "angewomon": {
+    "file": "angewomon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/Angewomon.gif"
+  },
+  "ophanimon": {
+    "file": "ophanimon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/mega/Ophanimon.gif"
+  },
+  "patamon": {
+    "file": "patamon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/rookie/Patamon.gif"
+  }
+}
