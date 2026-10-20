@@ -266,5 +266,81 @@
   "enemy-skullmeramon-alt": {
     "file": "enemy-skullmeramon-alt.gif",
     "source": "https://raw.githubusercontent.com/kongtaehun/digimon-assets-VB/main/assets/data/vol/vbe/sprites/deathmera/frame2.gif"
+  },
+  "agumon": {
+    "file": "agumon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/rookie/Agumon.gif"
+  },
+  "gabumon": {
+    "file": "gabumon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/rookie/Gabumon.gif"
+  },
+  "piyomon": {
+    "file": "piyomon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/rookie/Biyomon.gif"
+  },
+  "palmon": {
+    "file": "palmon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/rookie/Palmon.gif"
+  },
+  "plotmon": {
+    "file": "plotmon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/rookie/Plotmon.gif"
+  },
+  "greymon": {
+    "file": "greymon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/Greymon.gif"
+  },
+  "garurumon": {
+    "file": "garurumon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/Garurumon.gif"
+  },
+  "birdramon": {
+    "file": "birdramon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/Birdramon.gif"
+  },
+  "kabuterimon": {
+    "file": "kabuterimon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/Kabuterimon.gif"
+  },
+  "angemon": {
+    "file": "angemon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/champion/Angemon.gif"
+  },
+  "metalgreymon": {
+    "file": "metalgreymon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/MetalGreymon.gif"
+  },
+  "weregarurumon": {
+    "file": "weregarurumon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/ultimate/WereGarurumon.gif"
+  },
+  "wargreymon": {
+    "file": "wargreymon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/mega/WarGreymon.gif"
+  },
+  "metalgarurumon": {
+    "file": "metalgarurumon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/mega/MetalGarurumon.gif"
+  },
+  "omegamon": {
+    "file": "omegamon.gif",
+    "source": "https://raw.githubusercontent.com/E-M-B-E-R/digimon-world-ds-dawn-dusk-animated-sprites/main/mega/Omegamon.gif"
+  },
+  "blitzgreymon": {
+    "file": "blitzgreymon.gif",
+    "source": "https://raw.githubusercontent.com/kongtaehun/digimon-assets-VB/main/assets/data/ex/agu_ex/sprites/blitzgrey/frame1.gif"
+  },
+  "blitzgreymon-pose2": {
+    "file": "blitzgreymon-pose2.gif",
+    "source": "https://raw.githubusercontent.com/kongtaehun/digimon-assets-VB/main/assets/data/ex/agu_ex/sprites/blitzgrey/frame2.gif"
+  },
+  "cresgarurumon": {
+    "file": "cresgarurumon.gif",
+    "source": "https://raw.githubusercontent.com/kongtaehun/digimon-assets-VB/main/assets/data/ex/gabu_ex/sprites/cresgaruru/frame1.gif"
+  },
+  "cresgarurumon-pose2": {
+    "file": "cresgarurumon-pose2.gif",
+    "source": "https://raw.githubusercontent.com/kongtaehun/digimon-assets-VB/main/assets/data/ex/gabu_ex/sprites/cresgaruru/frame2.gif"
   }
 }
